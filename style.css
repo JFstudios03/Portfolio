@@ -139,7 +139,7 @@ header{
     background-position: center;
     background-repeat: no-repeat;
     /* background-color: rgb(255, 239, 208); */
-    max-height: 150vh;
+    max-height: 200vh;
     width: 100%;
 }
 .accordion{
@@ -484,7 +484,7 @@ footer{
         /* background-color: rgba(31, 0, 31, 0.8); */
     }
     .drop1.active{
-        max-height: 1100px;
+        max-height: 2000px;
         opacity: 1;
     }
     .drop2{
@@ -494,7 +494,7 @@ footer{
         opacity: 0;
     }
     .drop2.active{
-        max-height: 1100px;
+        max-height: 2000px;
         opacity: 1;
     }
     .drop3{
@@ -504,8 +504,9 @@ footer{
         opacity: 0;
     }
     .drop3.active{
-        max-height: 1100px;
+        max-height: 2000px;
         opacity: 1;
+        margin-bottom: 20px;
     }
     .content img{
         border: 2px solid rgb(255, 239, 208);
@@ -714,7 +715,7 @@ footer{
         /* background-color: rgba(31, 0, 31, 0.8); */
     }
     .drop1.active{
-        max-height: 1100px;
+        max-height: 2000px;
         opacity: 1;
     }
     .drop2{
@@ -724,7 +725,7 @@ footer{
         opacity: 0;
     }
     .drop2.active{
-        max-height: 1100px;
+        max-height: 2000px;
         opacity: 1;
     }
     .drop3{
@@ -734,8 +735,9 @@ footer{
         opacity: 0;
     }
     .drop3.active{
-        max-height: 1100px;
+        max-height: 2000px;
         opacity: 1;
+        margin-bottom: 20px;
     }
     .content img{
         border: 2px solid rgb(255, 239, 208);
