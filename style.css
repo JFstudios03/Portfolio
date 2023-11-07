@@ -154,7 +154,6 @@ header{
     color: rgb(255, 239, 208);
     /* background-color: rgba(31, 0, 31, 0.8); */
     /* padding:  0 10px; */
-    text-align: justify;
     margin: auto 5px 5px auto;
 }
 .accordion .tab .content{
@@ -220,13 +219,17 @@ header{
 .content img{
     border: 2px solid rgb(255, 239, 208);
     border-radius: 10px;
-    width: 30%;
+    width: 90%;
 }
 .img{
     margin: 20px auto;
     display: flex;
     justify-content: space-between;
     align-items: center;
+    text-align: center;
+}
+.img a{
+    text-decoration: none;
 }
 footer{
     background: linear-gradient(rgba(31, 0, 31, 0.8), rgba(26, 0, 26, 0.8)), url("img/footer-overlay.png");
